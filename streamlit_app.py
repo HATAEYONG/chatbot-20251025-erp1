@@ -9,7 +9,7 @@ from openai import OpenAI
 # =========================
 st.set_page_config(page_title="💬Chatbot", page_icon="💬", layout="centered")
 
-st.title("💬 엘도라도UNIERP Chatbot with Reset · Save · Summary · Restore")
+st.title("💬 엘도라도 UNIERP Chatbot with MyHomes 실내인테리어 중개 플랫폼")
 st.write(
     "OpenAI GPT 모델로 동작하는 간단한 챗봇입니다. "
     "API 키 입력 후 대화를 시작하세요. "
