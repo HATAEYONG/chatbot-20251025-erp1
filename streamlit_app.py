@@ -5,7 +5,7 @@ from openai import OpenAI
 
 st.set_page_config(page_title="💬 Chatbot", page_icon="💬")
 
-st.title("💬 Chatbot with Memory, Summary & Reset")
+st.title("💬 엘도라도 Chatbot with Memory, Summary & Reset")
 st.write(
     "이 앱은 OpenAI GPT 모델을 이용한 간단한 챗봇입니다. "
     "API 키를 입력 후 대화를 시작하세요."
