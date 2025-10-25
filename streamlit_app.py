@@ -7,7 +7,7 @@ from openai import OpenAI
 # =========================
 # 0) 페이지 기본 정보
 # =========================
-st.set_page_config(page_title="💬 Chatbot", page_icon="💬", layout="centered")
+st.set_page_config(page_title="💬 엘도라도UNIERP Chatbot", page_icon="💬", layout="centered")
 
 st.title("💬 Chatbot with Reset · Save · Summary · Restore")
 st.write(
